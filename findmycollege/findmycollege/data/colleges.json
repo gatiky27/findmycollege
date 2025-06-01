@@ -1,0 +1,5 @@
+[
+  { "name": "IIT Delhi", "location": "Delhi", "cutoff": 5000 },
+  { "name": "NIT Trichy", "location": "Trichy", "cutoff": 10000 },
+  { "name": "IIIT Hyderabad", "location": "Hyderabad", "cutoff": 15000 }
+]
